@@ -8,7 +8,7 @@ export default function App() {
         <View style={myStyle.container}>
             <Text>natphimon</Text>
             {/* แสดงข้อความ */}
-            <Text style={myStyle.titLe}>Witsarut</Text>
+            <Text style={myStyle.titLe}>Witsarut 999</Text>
 
             {/* แสดงภาพจากไฟล์*/}
             <Image
